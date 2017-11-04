@@ -57,6 +57,7 @@ function get_products() {
 
 	  products = results;
 	  prod_count = results.length;
+	  
 	  console.log("Products available for sale today: " + prod_count);
 	  console.log(" ");
 	  console.log("----------------------------------------------------------------------------------")
